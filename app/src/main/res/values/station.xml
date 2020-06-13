@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+		<string-array name="station_array">
+			<item>ALAMBAGH</item>
+			<item>ALAMBAGH ISBT BUS INTERCHANGE</item>
+			<item>AMAUSI</item>
+			<item>AMINABAD</item>
+			<item>BADSHAH NAGAR</item>
+			<item>BALA GANJ</item>
+			<item>CHARBAGH RAILWAY STATION</item>
+			<item>CHAUDHARY CHARAN SINGH INTERNATIONAL AIRPORT</item>
+			<item>CITY RAILWAY STATION</item>
+			<item>DURGAPURI</item>
+			<item>GAUTAM BUDDHA MARG</item>
+			<item>HAZRATGANJ</item>
+			<item>HUSSAINGANJ</item>
+			<item>INDIRA NAGAR</item>
+			<item>IT CHAURAHA</item>
+			<item>KD SINGH BABU STADIUM</item>
+			<item>KRISHNA NAGAR</item>
+			<item>LEKHRAJ MARKET</item>
+			<item>LUCKNOW UNIVERSITY</item>
+			<item>MAHANAGAR</item>
+			<item>MAWAIYA</item>
+			<item>MEDICAL COLLEGE CROSSING</item>
+			<item>MUNSHI PULIA</item>
+			<item>MUSA BAGH</item>
+			<item>NAWAZ GANJ</item>
+			<item>PANDEY GANJ</item>
+			<item>RAMSAGAR MISHRA NAGAR</item>
+			<item>SACHIVALAYA</item>
+			<item>SARFARAZ GANJ</item>
+			<item>SHRINGAR NAGAR</item>
+			<item>THAKUR GANJ</item>
+			<item>TRANSPORT NAGAR</item>
+			<item>VASANT KUNJ</item>
+		</string-array>
+		
+		<string-array name="station_ar">
+		<item>अमीनाबाद</item>
+		<item>अमौसी</item>
+		<item>आईटी कॉलेज जंक्शन</item>
+		<item>आलम बाग़</item>
+		<item>आलम बाग अंतरराज्यीय बस टर्मिनल</item>
+		<item>इंदिरा नगर</item>
+		<item>कृष्णा नगर</item>
+		<item>केडी सिंह बाबू स्टेडियम</item>
+		<item>गौतम बुद्ध मार्ग</item>
+		<item>चारबाग़ रेलवे स्टेशन</item>
+		<item>चौधरी चरण सिंह अंतरराष्ट्रीय हवाई अड्डा</item>
+		<item>ट्रांसपोर्ट नगर</item>
+		<item>ठाकुर गंज</item>
+		<item>दुर्गा पुरी</item>
+		<item>नवाज़ गंज</item>
+		<item>पांडे गंज</item>
+		<item>बादशाह नगर</item>
+		<item>बाला गंज</item>
+		<item>मवईया</item>
+		<item>महा नगर</item>
+		<item>मुंशी पुलिया</item>
+		<item>मूसा बाग़</item>
+		<item>मेडिकल कॉलेज चौराहा</item>
+		<item>राम सागर मिश्रा नगर</item>
+		<item>लखनऊ विश्वविद्यालय</item>
+		<item>लेखराज</item>
+		<item>वसंत कुंज</item>
+		<item>श्रृंगार नगर</item>
+		<item>सचिवालय</item>
+		<item>सरफ़राज़ गंज</item>
+		<item>सिटी रेलवे स्टेशन</item>
+		<item>हज़रत गंज</item>
+		<item>हुसैन गंज</item>
+		</string-array>
+</resources>		

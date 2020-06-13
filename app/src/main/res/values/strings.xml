@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Lucknow Metro</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_Start">Lucknow Metro Route</string>
+    <!-- MainActivity -->
+    <string name="Source">Enter Source Station</string>
+    <string name="Destination">Enter Destination Station</string>
+    <string name="Click_here">Submit</string>
+    <string name="zero">0</string>
+    <string name="faredescription">"Fare are accurate."
+        "Fare is calculated on the basic of no. of station traveled by user"
+        "does not include you source station"
+        "As provided by LMRCL .payment option available soon and much more"</string>
+
+    <string name="t1"> Transport Nagar Station</string>
+    <string name="t2">Contact Number 0522-6602518</string>
+    <string name="t3">Timings 08:00 to 20:00 hrs</string>
+    <string name="t4">Closed on Sunday and All National and Gazetted Holidays</string>
+
+    <string name="t5">Important-</string>
+
+    <string name="t6">Passengers may contact for enquiry of Lost and found articles after 48 hours during office hours.</string>
+    <string name="t7">Passengers must bring photocopy of any Id proof along with original to collect their articles.</string>
+    <string name="t8">If the lost articles are not claimed within one month, deposited articles at Lost and Found office will be disposed off.</string>
+
+
+    <string name="h1">Office Address</string>
+
+    <string name="h2">Lucknow Metro Rail Corporation Ltd.</string>
+    <string name="h3">Administrative Building,</string>
+    <string name="h4">Near Dr. Bhimrao Ambedkar Samajik Parivartan Sthal,</string>
+    <string name="h5">Vipin Khand Gomti Nagar, Lucknow - 226010</string>
+    <string name="h6">0522-2288869</string>
+    <string name="h7">feedback@lmrcl.com</string>
+</resources>
